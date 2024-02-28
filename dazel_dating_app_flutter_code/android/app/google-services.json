@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465867908563",
+    "project_id": "dazel-dating-app",
+    "storage_bucket": "dazel-dating-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465867908563:android:35c5e298b7f12303b3fb26",
+        "android_client_info": {
+          "package_name": "com.dazel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHBDCMG7MtwSDK-oAKrppWogbSW4II1Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

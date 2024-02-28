@@ -1,0 +1,6 @@
+NSCameraUsageDescription = "To take picture we need permission";
+NSMicrophoneUsageDescription = "To send voice note we need microphone permission";
+NSPhotoLibraryUsageDescription = "To upload images on profile and send media to chat we need permission";
+NSContactsUsageDescription = "We'll now show your profile to your contacts";
+NSLocationWhenInUseUsageDescription = "We'll show only nearby people to you";
+PermissionGroupNotification = "You'll get notification of chats, new matches, likes and etc";

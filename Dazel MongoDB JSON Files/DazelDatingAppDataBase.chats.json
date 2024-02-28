@@ -1,0 +1,255 @@
+[{
+  "_id": {
+    "$oid": "65d62cda676cfc96ef22cd44"
+  },
+  "userId": {
+    "$oid": "65cf4f632274e6f913de6618"
+  },
+  "conversations": [
+    {
+      "receiverId": {
+        "$oid": "65d074cb4f1b52b939f69e2d"
+      },
+      "messages": [
+        {
+          "isSender": true,
+          "message": "{\"msg\":\"Heyy\",\"type\":\"text\",\"data\":\"\"}",
+          "seen": true,
+          "isDoc": false,
+          "docUrls": [],
+          "_id": {
+            "$oid": "65d62cda676cfc96ef22cd49"
+          },
+          "timestamp": {
+            "$date": "2024-02-21T17:03:22.990Z"
+          }
+        },
+        {
+          "isSender": false,
+          "message": "{\"msg\":\"hieee\",\"type\":\"text\",\"data\":\"\"}",
+          "seen": true,
+          "isDoc": false,
+          "docUrls": [],
+          "_id": {
+            "$oid": "65df668d91175ada6fbe66c7"
+          },
+          "timestamp": {
+            "$date": "2024-02-28T16:59:57.776Z"
+          }
+        },
+        {
+          "isSender": true,
+          "message": "{\"msg\":\"supp\",\"type\":\"text\",\"data\":\"\"}",
+          "seen": true,
+          "isDoc": false,
+          "docUrls": [],
+          "_id": {
+            "$oid": "65df669791175ada6fbe69c2"
+          },
+          "timestamp": {
+            "$date": "2024-02-28T17:00:07.960Z"
+          }
+        },
+        {
+          "isSender": false,
+          "message": "{\"msg\":\"nothing much\",\"type\":\"text\",\"data\":\"\"}",
+          "seen": true,
+          "isDoc": false,
+          "docUrls": [],
+          "_id": {
+            "$oid": "65df66b791175ada6fbe7843"
+          },
+          "timestamp": {
+            "$date": "2024-02-28T17:00:39.054Z"
+          }
+        },
+        {
+          "isSender": false,
+          "message": "{\"msg\":\"wau?\",\"type\":\"text\",\"data\":\"\"}",
+          "seen": true,
+          "isDoc": false,
+          "docUrls": [],
+          "_id": {
+            "$oid": "65df66c591175ada6fbe8068"
+          },
+          "timestamp": {
+            "$date": "2024-02-28T17:00:53.791Z"
+          }
+        },
+        {
+          "isSender": true,
+          "message": "{\"msg\":\"it's great\",\"type\":\"text\",\"data\":\"\"}",
+          "seen": true,
+          "isDoc": false,
+          "docUrls": [],
+          "_id": {
+            "$oid": "65df6a9591175ada6fbf92c9"
+          },
+          "timestamp": {
+            "$date": "2024-02-28T17:17:09.759Z"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "65d62cda676cfc96ef22cd48"
+      }
+    },
+    {
+      "receiverId": {
+        "$oid": "65d074cb4f1b52b939f69e7d"
+      },
+      "messages": [
+        {
+          "isSender": true,
+          "message": "{\"msg\":\"Hey\",\"type\":\"text\",\"data\":\"\"}",
+          "seen": false,
+          "isDoc": false,
+          "docUrls": [],
+          "_id": {
+            "$oid": "65df6b7891175ada6fc03628"
+          },
+          "timestamp": {
+            "$date": "2024-02-28T17:20:56.878Z"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "65df6b7891175ada6fc03627"
+      }
+    }
+  ],
+  "__v": 7
+},
+{
+  "_id": {
+    "$oid": "65d62cda676cfc96ef22cd46"
+  },
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e2d"
+  },
+  "conversations": [
+    {
+      "receiverId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "messages": [
+        {
+          "isSender": false,
+          "message": "{\"msg\":\"Heyy\",\"type\":\"text\",\"data\":\"\"}",
+          "seen": true,
+          "isDoc": false,
+          "docUrls": [],
+          "_id": {
+            "$oid": "65d62cda676cfc96ef22cd4b"
+          },
+          "timestamp": {
+            "$date": "2024-02-21T17:03:22.991Z"
+          }
+        },
+        {
+          "isSender": true,
+          "message": "{\"msg\":\"hieee\",\"type\":\"text\",\"data\":\"\"}",
+          "seen": true,
+          "isDoc": false,
+          "docUrls": [],
+          "_id": {
+            "$oid": "65df668d91175ada6fbe66c6"
+          },
+          "timestamp": {
+            "$date": "2024-02-28T16:59:57.775Z"
+          }
+        },
+        {
+          "isSender": false,
+          "message": "{\"msg\":\"supp\",\"type\":\"text\",\"data\":\"\"}",
+          "seen": true,
+          "isDoc": false,
+          "docUrls": [],
+          "_id": {
+            "$oid": "65df669791175ada6fbe69c3"
+          },
+          "timestamp": {
+            "$date": "2024-02-28T17:00:07.960Z"
+          }
+        },
+        {
+          "isSender": true,
+          "message": "{\"msg\":\"nothing much\",\"type\":\"text\",\"data\":\"\"}",
+          "seen": true,
+          "isDoc": false,
+          "docUrls": [],
+          "_id": {
+            "$oid": "65df66b791175ada6fbe7842"
+          },
+          "timestamp": {
+            "$date": "2024-02-28T17:00:39.054Z"
+          }
+        },
+        {
+          "isSender": true,
+          "message": "{\"msg\":\"wau?\",\"type\":\"text\",\"data\":\"\"}",
+          "seen": true,
+          "isDoc": false,
+          "docUrls": [],
+          "_id": {
+            "$oid": "65df66c591175ada6fbe8067"
+          },
+          "timestamp": {
+            "$date": "2024-02-28T17:00:53.791Z"
+          }
+        },
+        {
+          "isSender": false,
+          "message": "{\"msg\":\"it's great\",\"type\":\"text\",\"data\":\"\"}",
+          "seen": true,
+          "isDoc": false,
+          "docUrls": [],
+          "_id": {
+            "$oid": "65df6a9591175ada6fbf92ca"
+          },
+          "timestamp": {
+            "$date": "2024-02-28T17:17:09.759Z"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "65d62cda676cfc96ef22cd4a"
+      }
+    }
+  ],
+  "__v": 6
+},
+{
+  "_id": {
+    "$oid": "65df6b7891175ada6fc0360c"
+  },
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e7d"
+  },
+  "conversations": [
+    {
+      "receiverId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "messages": [
+        {
+          "isSender": false,
+          "message": "{\"msg\":\"Hey\",\"type\":\"text\",\"data\":\"\"}",
+          "seen": false,
+          "isDoc": false,
+          "docUrls": [],
+          "_id": {
+            "$oid": "65df6b7891175ada6fc0362a"
+          },
+          "timestamp": {
+            "$date": "2024-02-28T17:20:56.879Z"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "65df6b7891175ada6fc03629"
+      }
+    }
+  ],
+  "__v": 1
+}]

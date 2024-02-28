@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Test API</title>
+</head>
+
+<body>
+
+    <h1>User Signup Tester</h1>
+
+    <form id="signupForm">
+        <label for="phoneNumber">Phone Number:</label><br>
+        <input type="tel" id="phoneNumber" name="phoneNumber" required><br><br>
+
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email" required><br><br>
+
+        <label for="password">Password:</label><br>
+        <input type="password" id="password" name="password" required><br><br>
+
+        <label for="name">Name:</label><br>
+        <input type="text" id="name" name="name" required><br><br>
+
+        <label for="dob">Date of Birth (DD/MM/YYYY):</label><br>
+        <input type="date" value="2004-12-26" type="text" id="dob" name="dob" required><br><br>
+
+        <label for="gender">Gender:</label><br>
+        <select id="gender" name="gender" required>
+            <option value="Men">Men</option>
+            <option value="Women">Women</option>
+            <option value="Nonbinary">Nonbinary</option>
+        </select><br><br>
+
+        <label for="typeOfDate">Type of Date:</label><br>
+        <select id="typeOfDate" name="typeOfDate" required>
+            <option value="">Select Type of Date</option>
+            <option value="Casual">Casual</option>
+            <option value="Formal">Formal</option>
+            <option value="Virtual">Virtual</option>
+            <option value="Outdoor">Outdoor</option>
+            <option value="Indoor">Indoor</option>
+            <option value="Adventure">Adventure</option>
+            <option value="Romantic">Romantic</option>
+            <!-- Add more options as needed -->
+        </select><br><br>
+
+
+        <label for="interestsRaw">Interests (comma-separated):</label><br>
+        <input type="text" id="interestsRaw" name="interestsRaw" required><br><br>
+
+        <label for="media">Media Files:</label><br>
+        <input type="file" id="media" name="media" accept="image/*" multiple required><br><br>
+
+        <button type="submit">Signup</button>
+    </form>
+    <script>
+        document.getElementById('signupForm').addEventListener('submit', async (event) => {
+            event.preventDefault();
+
+            const formData = new FormData(event.target);
+            const endpoint = 'api/auth/signup';
+
+            try {
+                const response = await fetch(endpoint, {
+                    method: 'POST',
+                    headers: {
+                        'x-api-key': '123',
+                    },
+                    body: formData,
+                });
+
+                const data = await response.json();
+                console.log('User signed up:', data);
+                alert('User signed up successfully!');
+            } catch (error) {
+                console.error('Error signing up:', error);
+                alert('Error signing up. Please check the console for details.');
+            }
+        });
+    </script>
+
+    <h2>Login Test</h2>
+    <form id="loginTestForm" action="/api/auth/login" method="post" enctype="multipart/form-data">
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email" required><br>
+
+        <label for="password">Password:</label><br>
+        <input type="password" id="password" name="password" required><br><br>
+
+        <input type="submit" value="Login">
+    </form>
+
+    <h1>Profile Verification</h1>
+    <form id="verificationForm" enctype="multipart/form-data">
+        <label for="userId">User ID:</label>
+        <input type="text" id="userId" name="userId" required><br><br>
+        <label for="verificationImage">Upload Image:</label>
+        <input type="file" id="verificationImage" name="verificationImage" required><br><br>
+        <button type="submit">Submit</button>
+    </form>
+    <script>
+        document.getElementById('verificationForm').addEventListener('submit', async function (event) {
+            event.preventDefault();
+
+            const userId = document.getElementById('userId').value;
+            const imageFile = document.getElementById('verificationImage').files[0];
+
+            const formData = new FormData();
+            formData.append('userId', userId);
+            formData.append('verificationImage', imageFile);
+
+            const apiKey = '123'; // Replace with your API key
+            const apiUrl = '/api/auth/verify-profile'; // Replace with your API endpoint URL
+
+            try {
+                const response = await fetch(apiUrl, {
+                    method: 'POST',
+                    headers: {
+                        'x-api-key': apiKey,
+                    },
+                    body: formData
+                });
+
+                if (response.ok) {
+                    alert('Verification submitted successfully!');
+                } else {
+                    alert('Error submitting verification. Please try again.');
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                alert('An error occurred while submitting verification.');
+            }
+        });
+    </script>
+
+    <h1>Send Message</h1>
+    <form id="messageForm" enctype="multipart/form-data">
+        <label for="userId">User ID:</label>
+        <input type="text" id="userId" name="userId" required><br><br>
+
+        <label for="receiverId">Receiver ID:</label>
+        <input type="text" id="receiverId" name="receiverId" required><br><br>
+
+        <label for="message">Message:</label>
+        <input type="text" id="message" name="message"><br><br>
+
+        <label for="files">Upload Files:</label>
+        <input type="file" id="files" name="files" multiple><br><br>
+
+        <button type="submit">Send Message</button>
+    </form>
+    <script>
+        document.getElementById('messageForm').addEventListener('submit', async function (event) {
+            event.preventDefault();
+
+            const formData = new FormData(this);
+            const url = '/api/chat/send-message'; // Update with your API endpoint
+
+            try {
+                const response = await fetch(url, {
+                    method: 'POST',
+                    headers: {
+                        'x-api-key': '123', // Replace with your API key
+                    },
+                    body: formData
+                });
+
+                const data = await response.json();
+                console.log(data);
+
+                // Handle response data accordingly (display success message, error handling, etc.)
+                alert(data.message || 'Something went wrong!');
+            } catch (error) {
+                console.error('Error:', error);
+                alert('Failed to send message.');
+            }
+        });
+    </script>
+
+
+</body>
+
+</html>

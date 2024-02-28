@@ -1,0 +1,204 @@
+[{
+  "_id": {
+    "$oid": "65cf4f642274e6f913de661e"
+  },
+  "userId": {
+    "$oid": "65cf4f632274e6f913de6618"
+  },
+  "data": {
+    "contacts": {
+      "list": [],
+      "lastUpdate": {
+        "$date": "2024-02-28T17:11:49.625Z"
+      }
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cf6a4b2274e6f913de9ef0"
+  },
+  "userId": {
+    "$oid": "65cf6a4a2274e6f913de9ee8"
+  },
+  "data": {
+    "contacts": {
+      "list": [],
+      "lastUpdate": {
+        "$date": "2024-02-16T14:01:58.006Z"
+      }
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d060854f1b52b939f689c2"
+  },
+  "userId": {
+    "$oid": "65d060854f1b52b939f689b9"
+  },
+  "data": {
+    "contacts": {
+      "list": [],
+      "lastUpdate": {
+        "$date": "2024-02-18T17:45:58.566Z"
+      }
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d074cb4f1b52b939f69e25"
+  },
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e1d"
+  },
+  "data": {
+    "contacts": {
+      "list": [],
+      "lastUpdate": {
+        "$date": "2024-02-18T17:10:18.462Z"
+      }
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d228d86d198440fca6d50c"
+  },
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e9d"
+  },
+  "data": {
+    "contacts": {
+      "list": [],
+      "lastUpdate": {
+        "$date": "2024-02-18T16:07:28.917Z"
+      }
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d22db86d198440fca6d9c6"
+  },
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e8d"
+  },
+  "data": {
+    "contacts": {
+      "list": [],
+      "lastUpdate": {
+        "$date": "2024-02-18T16:19:12.369Z"
+      }
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d22e0a6d198440fca6db1c"
+  },
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e7d"
+  },
+  "data": {
+    "contacts": {
+      "list": [],
+      "lastUpdate": {
+        "$date": "2024-02-18T16:19:22.890Z"
+      }
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d2308e6d198440fca6ed09"
+  },
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e6d"
+  },
+  "data": {
+    "contacts": {
+      "list": [],
+      "lastUpdate": {
+        "$date": "2024-02-21T15:20:46.850Z"
+      }
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d231b36d198440fca6f507"
+  },
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e5d"
+  },
+  "data": {
+    "contacts": {
+      "list": [],
+      "lastUpdate": {
+        "$date": "2024-02-18T16:34:59.474Z"
+      }
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d2368e6d198440fca70c84"
+  },
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e4d"
+  },
+  "data": {
+    "contacts": {
+      "list": [],
+      "lastUpdate": {
+        "$date": "2024-02-18T16:55:42.163Z"
+      }
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d238bb6d198440fca71f68"
+  },
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e3d"
+  },
+  "data": {
+    "contacts": {
+      "list": [],
+      "lastUpdate": {
+        "$date": "2024-02-18T17:04:59.569Z"
+      }
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d2394e6d198440fca725ed"
+  },
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e2d"
+  },
+  "data": {
+    "contacts": {
+      "list": [],
+      "lastUpdate": {
+        "$date": "2024-02-28T17:10:42.378Z"
+      }
+    }
+  },
+  "__v": 0
+}]

@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "65cf4f632274e6f913de661a"
+  },
+  "email": "ttlmlmlmlmlm@gmail.com",
+  "password": "Pass@123",
+  "userId": {
+    "$oid": "65cf4f632274e6f913de6618"
+  },
+  "accountSignupType": "Google",
+  "createdAt": {
+    "$date": "2024-02-16T12:04:51.673Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cf6a4a2274e6f913de9eea"
+  },
+  "email": "User1@gmail.com",
+  "password": "Pass@123",
+  "userId": {
+    "$oid": "65cf6a4a2274e6f913de9ee8"
+  },
+  "accountSignupType": "Manual",
+  "createdAt": {
+    "$date": "2024-02-16T13:59:38.900Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d060854f1b52b939f689bb"
+  },
+  "email": "User2@gmail.com",
+  "password": "Pass@123",
+  "userId": {
+    "$oid": "65d060854f1b52b939f689b9"
+  },
+  "accountSignupType": "Manual",
+  "createdAt": {
+    "$date": "2024-02-17T07:30:13.124Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d074cb4f1b52b939f69e1f"
+  },
+  "email": "User3@gmail.com",
+  "password": "Pass@123",
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e1d"
+  },
+  "accountSignupType": "Manual",
+  "createdAt": {
+    "$date": "2024-02-17T08:56:43.407Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cf6a4a2274e6f910de9eea"
+  },
+  "email": "User4@gmail.com",
+  "password": "Pass@123",
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e2d"
+  },
+  "accountSignupType": "Manual",
+  "createdAt": {
+    "$date": "2024-02-16T13:59:38.900Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d060854f1b52b929f689bb"
+  },
+  "email": "User5@gmail.com",
+  "password": "Pass@123",
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e3d"
+  },
+  "accountSignupType": "Manual",
+  "createdAt": {
+    "$date": "2024-02-17T07:30:13.124Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d074cb4f1b62b939f69e1f"
+  },
+  "email": "User6@gmail.com",
+  "password": "Pass@123",
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e4d"
+  },
+  "accountSignupType": "Manual",
+  "createdAt": {
+    "$date": "2024-02-17T08:56:43.407Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61d074cb4f1b52b939f69e1f"
+  },
+  "email": "User7@gmail.com",
+  "password": "Pass@123",
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e5d"
+  },
+  "accountSignupType": "Manual",
+  "createdAt": {
+    "$date": "2024-02-17T08:56:43.407Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d074cb4f1b52b939f69e1f"
+  },
+  "email": "User8@gmail.com",
+  "password": "Pass@123",
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e6d"
+  },
+  "accountSignupType": "Manual",
+  "createdAt": {
+    "$date": "2024-02-17T08:56:43.407Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63d074cb4f1b52b939f69e1f"
+  },
+  "email": "User9@gmail.com",
+  "password": "Pass@123",
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e7d"
+  },
+  "accountSignupType": "Manual",
+  "createdAt": {
+    "$date": "2024-02-17T08:56:43.407Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d074cb4f1b52b939f69e1f"
+  },
+  "email": "User10@gmail.com",
+  "password": "Pass@123",
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e8d"
+  },
+  "accountSignupType": "Manual",
+  "createdAt": {
+    "$date": "2024-02-17T08:56:43.407Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69d074cb4f1b52b939f69e1f"
+  },
+  "email": "User11@gmail.com",
+  "password": "Pass@123",
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e9d"
+  },
+  "accountSignupType": "Manual",
+  "createdAt": {
+    "$date": "2024-02-17T08:56:43.407Z"
+  },
+  "__v": 0
+}]

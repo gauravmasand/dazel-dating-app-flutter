@@ -1,0 +1,1099 @@
+[{
+  "_id": {
+    "$oid": "65d1c8f2cc7a6db3855b5351"
+  },
+  "onlineStatus": {
+    "lastActive": {
+      "$date": "2024-02-18T09:23:52.080Z"
+    }
+  },
+  "userId": {
+    "$oid": "65cf6a4a2274e6f913de9ee8"
+  },
+  "gotRightSwipeCount": 0,
+  "gotLeftSwipeCount": 1,
+  "tillRightSwipedCount": 0,
+  "tillLeftSwipedCount": 0,
+  "matchGotCount": 0,
+  "viewedProfiles": [],
+  "gotLeftSwipeUserIdList": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "_id": {
+        "$oid": "65df5fb091175ada6fbd9a82"
+      },
+      "currentTime": {
+        "$date": "2024-02-28T16:30:40.960Z"
+      }
+    }
+  ],
+  "gotRightSwipeUserIdList": [],
+  "tillRightSwipedUserIdList": [],
+  "tillLeftSwipedUserIdList": [],
+  "matchWithUserIdList": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d1c98fcc7a6db3855b539c"
+  },
+  "onlineStatus": {
+    "lastActive": {
+      "$date": "2024-02-28T17:24:24.046Z"
+    }
+  },
+  "userId": {
+    "$oid": "65cf4f632274e6f913de6618"
+  },
+  "gotRightSwipeCount": 9,
+  "gotLeftSwipeCount": 0,
+  "tillRightSwipedCount": 6,
+  "tillLeftSwipedCount": 5,
+  "matchGotCount": 5,
+  "gotLeftSwipeUserIdList": [],
+  "gotRightSwipeUserIdList": [
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e9d"
+      },
+      "accepted": null,
+      "message": "{\"msg\":\"\",\"type\":\"swipe\",\"data\":\"\"}",
+      "_id": {
+        "$oid": "65d22c2a6d198440fca6d826"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T16:11:22.984Z"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e8d"
+      },
+      "accepted": null,
+      "message": "{\"msg\":\"\",\"type\":\"swipe\",\"data\":\"\"}",
+      "_id": {
+        "$oid": "65d22de96d198440fca6da73"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T16:18:49.979Z"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e7d"
+      },
+      "accepted": null,
+      "message": "{\"msg\":\"\",\"type\":\"swipe\",\"data\":\"\"}",
+      "_id": {
+        "$oid": "65d22f396d198440fca6e2c7"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T16:24:25.109Z"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e6d"
+      },
+      "accepted": null,
+      "message": "{\"msg\":\"🍦 Cosmic Swirl 🚀\",\"type\":\"openingQuestion\",\"data\":\"\\\"🚀 If you were a flavor of ice cream, what would you be, and why? 🍦\\\"\"}",
+      "_id": {
+        "$oid": "65d231116d198440fca6f289"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T16:32:17.733Z"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e5d"
+      },
+      "accepted": null,
+      "message": "{\"msg\":\"I love that you're into art. It's so refreshing!\",\"type\":\"interestIn\",\"data\":\"[\\\"🎨 Art & Painting\\\",\\\"🎭 Theater & Drama\\\",\\\"📱 App Development\\\",\\\"🧬 Science & Innovations\\\"]\"}",
+      "_id": {
+        "$oid": "65d231df6d198440fca6f57b"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T16:35:43.223Z"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e4d"
+      },
+      "accepted": null,
+      "message": "{\"msg\":\"Yummy, I also love it!!!\",\"type\":\"writtenPrompt\",\"data\":\"{\\\"prompt\\\":\\\"I feel happiest when...\\\",\\\"answer\\\":\\\"When, I have crispello🤤\\\"}\"}",
+      "_id": {
+        "$oid": "65d238ab6d198440fca71eb1"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T17:04:43.008Z"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e3d"
+      },
+      "accepted": null,
+      "message": "{\"msg\":\"I admire your sense of adventure. What's your next big trip?\",\"type\":\"bio\",\"data\":\"\\\"🌟 Adventurous Soul Seeking Connection 🌟\\\"\"}",
+      "_id": {
+        "$oid": "65d239426d198440fca72529"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T17:07:14.176Z"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e2d"
+      },
+      "accepted": null,
+      "message": "{\"msg\":\"I don't like ur basics, bruhhhhh\",\"type\":\"basics\",\"data\":\"\\\"\\\"\"}",
+      "_id": {
+        "$oid": "65d239ee6d198440fca72e15"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T17:10:06.242Z"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e1d"
+      },
+      "accepted": null,
+      "message": "{\"msg\":\"Ur basics says that ur not common girl\",\"type\":\"moreAboutUser\",\"data\":\"\\\"\\\"\"}",
+      "_id": {
+        "$oid": "65d23b326d198440fca7404e"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T17:15:30.847Z"
+      }
+    }
+  ],
+  "tillRightSwipedUserIdList": [
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e2d"
+      },
+      "message": "{\"msg\":\"\",\"type\":\"swipe\",\"data\":\"\"}",
+      "_id": {
+        "$oid": "65d2432e19db705c0a5bbbc7"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T17:49:34.116Z"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e7d"
+      },
+      "message": "{\"msg\":\"\",\"type\":\"swipe\",\"data\":\"\"}",
+      "_id": {
+        "$oid": "65d2433519db705c0a5bbc95"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T17:49:41.985Z"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e5d"
+      },
+      "message": "{\"msg\":\"\",\"type\":\"swipe\",\"data\":\"\"}",
+      "_id": {
+        "$oid": "65d2436419db705c0a5bc039"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T17:50:28.933Z"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e4d"
+      },
+      "message": "{\"msg\":\"\",\"type\":\"swipe\",\"data\":\"\"}",
+      "_id": {
+        "$oid": "65df61fa91175ada6fbdf842"
+      },
+      "currentTime": {
+        "$date": "2024-02-28T16:40:26.369Z"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "65d060854f1b52b939f689b9"
+      },
+      "message": "{\"msg\":\"\",\"type\":\"swipe\",\"data\":\"\"}",
+      "_id": {
+        "$oid": "65df69e891175ada6fbf78fd"
+      },
+      "currentTime": {
+        "$date": "2024-02-28T17:14:16.325Z"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e9d"
+      },
+      "message": "{\"msg\":\"\",\"type\":\"swipe\",\"data\":\"\"}",
+      "_id": {
+        "$oid": "65df6bec91175ada6fc084b5"
+      },
+      "currentTime": {
+        "$date": "2024-02-28T17:22:52.763Z"
+      }
+    }
+  ],
+  "tillLeftSwipedUserIdList": [
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e6d"
+      },
+      "_id": {
+        "$oid": "65df5fa591175ada6fbd954c"
+      },
+      "currentTime": {
+        "$date": "2024-02-28T16:30:29.069Z"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "65cf6a4a2274e6f913de9ee8"
+      },
+      "_id": {
+        "$oid": "65df5fb091175ada6fbd9a5a"
+      },
+      "currentTime": {
+        "$date": "2024-02-28T16:30:40.957Z"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e1d"
+      },
+      "_id": {
+        "$oid": "65df69e791175ada6fbf789e"
+      },
+      "currentTime": {
+        "$date": "2024-02-28T17:14:15.085Z"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e3d"
+      },
+      "_id": {
+        "$oid": "65df69f091175ada6fbf7a4c"
+      },
+      "currentTime": {
+        "$date": "2024-02-28T17:14:24.410Z"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e8d"
+      },
+      "_id": {
+        "$oid": "65df69f291175ada6fbf7af3"
+      },
+      "currentTime": {
+        "$date": "2024-02-28T17:14:26.229Z"
+      }
+    }
+  ],
+  "matchWithUserIdList": [
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e2d"
+      },
+      "_id": {
+        "$oid": "65d2432e19db705c0a5bbc02"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T17:49:34.130Z"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e7d"
+      },
+      "_id": {
+        "$oid": "65d2433619db705c0a5bbcd9"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T17:49:42.013Z"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e5d"
+      },
+      "_id": {
+        "$oid": "65d2436419db705c0a5bc086"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T17:50:28.948Z"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e4d"
+      },
+      "_id": {
+        "$oid": "65df61fa91175ada6fbdf89e"
+      },
+      "currentTime": {
+        "$date": "2024-02-28T16:40:26.381Z"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e9d"
+      },
+      "_id": {
+        "$oid": "65df6bec91175ada6fc0851a"
+      },
+      "currentTime": {
+        "$date": "2024-02-28T17:22:52.774Z"
+      }
+    }
+  ],
+  "__v": 1,
+  "viewedProfiles": [
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e4d"
+      },
+      "currentTime": {
+        "$date": "2024-02-28T16:40:26.376Z"
+      },
+      "_id": {
+        "$oid": "65df61fa91175ada6fbdf861"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e1d"
+      },
+      "currentTime": {
+        "$date": "2024-02-28T17:14:15.080Z"
+      },
+      "_id": {
+        "$oid": "65df69e791175ada6fbf7881"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "65d060854f1b52b939f689b9"
+      },
+      "currentTime": {
+        "$date": "2024-02-28T17:14:16.342Z"
+      },
+      "_id": {
+        "$oid": "65df69e891175ada6fbf791c"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e3d"
+      },
+      "currentTime": {
+        "$date": "2024-02-28T17:14:24.407Z"
+      },
+      "_id": {
+        "$oid": "65df69f091175ada6fbf7a2e"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e8d"
+      },
+      "currentTime": {
+        "$date": "2024-02-28T17:14:26.227Z"
+      },
+      "_id": {
+        "$oid": "65df69f291175ada6fbf7ad5"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "65d074cb4f1b52b939f69e9d"
+      },
+      "currentTime": {
+        "$date": "2024-02-28T17:22:52.768Z"
+      },
+      "_id": {
+        "$oid": "65df6bec91175ada6fc084d7"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65d1d9e53035e1b8ae97ed53"
+  },
+  "onlineStatus": {
+    "lastActive": {
+      "$date": "2024-02-18T18:07:58.441Z"
+    }
+  },
+  "userId": {
+    "$oid": "65d060854f1b52b939f689b9"
+  },
+  "gotRightSwipeCount": 1,
+  "gotLeftSwipeCount": 0,
+  "tillRightSwipedCount": 0,
+  "tillLeftSwipedCount": 0,
+  "matchGotCount": 0,
+  "viewedProfiles": [],
+  "gotLeftSwipeUserIdList": [],
+  "gotRightSwipeUserIdList": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "accepted": null,
+      "message": "{\"msg\":\"\",\"type\":\"swipe\",\"data\":\"\"}",
+      "_id": {
+        "$oid": "65df69e891175ada6fbf791a"
+      },
+      "currentTime": {
+        "$date": "2024-02-28T17:14:16.337Z"
+      }
+    }
+  ],
+  "tillRightSwipedUserIdList": [],
+  "tillLeftSwipedUserIdList": [],
+  "matchWithUserIdList": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d228d86d198440fca6d509"
+  },
+  "onlineStatus": {
+    "lastActive": {
+      "$date": "2024-02-18T16:33:13.277Z"
+    }
+  },
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e9d"
+  },
+  "gotRightSwipeCount": 1,
+  "gotLeftSwipeCount": 0,
+  "tillRightSwipedCount": 1,
+  "tillLeftSwipedCount": 0,
+  "matchGotCount": 1,
+  "viewedProfiles": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T16:11:22.988Z"
+      },
+      "_id": {
+        "$oid": "65d22c2a6d198440fca6d82a"
+      }
+    }
+  ],
+  "gotLeftSwipeUserIdList": [],
+  "gotRightSwipeUserIdList": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "accepted": null,
+      "message": "{\"msg\":\"\",\"type\":\"swipe\",\"data\":\"\"}",
+      "_id": {
+        "$oid": "65df6bec91175ada6fc084d3"
+      },
+      "currentTime": {
+        "$date": "2024-02-28T17:22:52.766Z"
+      }
+    }
+  ],
+  "tillRightSwipedUserIdList": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "message": "{\"msg\":\"\",\"type\":\"swipe\",\"data\":\"\"}",
+      "_id": {
+        "$oid": "65d22c2a6d198440fca6d824"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T16:11:22.945Z"
+      }
+    }
+  ],
+  "tillLeftSwipedUserIdList": [],
+  "matchWithUserIdList": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "_id": {
+        "$oid": "65df6bec91175ada6fc0853a"
+      },
+      "currentTime": {
+        "$date": "2024-02-28T17:22:52.777Z"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d22db76d198440fca6d9c1"
+  },
+  "onlineStatus": {
+    "lastActive": {
+      "$date": "2024-02-18T16:33:17.295Z"
+    }
+  },
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e8d"
+  },
+  "gotRightSwipeCount": 0,
+  "gotLeftSwipeCount": 1,
+  "tillRightSwipedCount": 1,
+  "tillLeftSwipedCount": 0,
+  "matchGotCount": 0,
+  "viewedProfiles": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T16:18:49.981Z"
+      },
+      "_id": {
+        "$oid": "65d22de96d198440fca6da79"
+      }
+    }
+  ],
+  "gotLeftSwipeUserIdList": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "_id": {
+        "$oid": "65df69f291175ada6fbf7b11"
+      },
+      "currentTime": {
+        "$date": "2024-02-28T17:14:26.232Z"
+      }
+    }
+  ],
+  "gotRightSwipeUserIdList": [],
+  "tillRightSwipedUserIdList": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "message": "{\"msg\":\"\",\"type\":\"swipe\",\"data\":\"\"}",
+      "_id": {
+        "$oid": "65d22de96d198440fca6da71"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T16:18:49.967Z"
+      }
+    }
+  ],
+  "tillLeftSwipedUserIdList": [],
+  "matchWithUserIdList": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d22e0a6d198440fca6db18"
+  },
+  "onlineStatus": {
+    "lastActive": {
+      "$date": "2024-02-18T16:33:13.265Z"
+    }
+  },
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e7d"
+  },
+  "gotRightSwipeCount": 1,
+  "gotLeftSwipeCount": 0,
+  "tillRightSwipedCount": 1,
+  "tillLeftSwipedCount": 0,
+  "matchGotCount": 1,
+  "viewedProfiles": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T16:24:25.110Z"
+      },
+      "_id": {
+        "$oid": "65d22f396d198440fca6e2cd"
+      }
+    }
+  ],
+  "gotLeftSwipeUserIdList": [],
+  "gotRightSwipeUserIdList": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "accepted": null,
+      "message": "{\"msg\":\"\",\"type\":\"swipe\",\"data\":\"\"}",
+      "_id": {
+        "$oid": "65d2433519db705c0a5bbca8"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T17:49:41.989Z"
+      }
+    }
+  ],
+  "tillRightSwipedUserIdList": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "message": "{\"msg\":\"\",\"type\":\"swipe\",\"data\":\"\"}",
+      "_id": {
+        "$oid": "65d22f396d198440fca6e2c5"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T16:24:25.076Z"
+      }
+    }
+  ],
+  "tillLeftSwipedUserIdList": [],
+  "matchWithUserIdList": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "_id": {
+        "$oid": "65d2433619db705c0a5bbcee"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T17:49:42.017Z"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d2308e6d198440fca6ed05"
+  },
+  "onlineStatus": {
+    "lastActive": {
+      "$date": "2024-02-21T15:25:56.306Z"
+    }
+  },
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e6d"
+  },
+  "gotRightSwipeCount": 0,
+  "gotLeftSwipeCount": 1,
+  "tillRightSwipedCount": 1,
+  "tillLeftSwipedCount": 0,
+  "matchGotCount": 0,
+  "viewedProfiles": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T16:32:17.736Z"
+      },
+      "_id": {
+        "$oid": "65d231116d198440fca6f290"
+      }
+    }
+  ],
+  "gotLeftSwipeUserIdList": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "_id": {
+        "$oid": "65df5fa591175ada6fbd956f"
+      },
+      "currentTime": {
+        "$date": "2024-02-28T16:30:29.072Z"
+      }
+    }
+  ],
+  "gotRightSwipeUserIdList": [],
+  "tillRightSwipedUserIdList": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "message": "{\"msg\":\"🍦 Cosmic Swirl 🚀\",\"type\":\"openingQuestion\",\"data\":\"\\\"🚀 If you were a flavor of ice cream, what would you be, and why? 🍦\\\"\"}",
+      "_id": {
+        "$oid": "65d231116d198440fca6f287"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T16:32:17.726Z"
+      }
+    }
+  ],
+  "tillLeftSwipedUserIdList": [],
+  "matchWithUserIdList": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d231b36d198440fca6f504"
+  },
+  "onlineStatus": {
+    "lastActive": {
+      "$date": "2024-02-18T17:42:14.410Z"
+    }
+  },
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e5d"
+  },
+  "gotRightSwipeCount": 1,
+  "gotLeftSwipeCount": 0,
+  "tillRightSwipedCount": 1,
+  "tillLeftSwipedCount": 0,
+  "matchGotCount": 1,
+  "viewedProfiles": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T16:35:43.225Z"
+      },
+      "_id": {
+        "$oid": "65d231df6d198440fca6f583"
+      }
+    }
+  ],
+  "gotLeftSwipeUserIdList": [],
+  "gotRightSwipeUserIdList": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "accepted": null,
+      "message": "{\"msg\":\"\",\"type\":\"swipe\",\"data\":\"\"}",
+      "_id": {
+        "$oid": "65d2436419db705c0a5bc04f"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T17:50:28.936Z"
+      }
+    }
+  ],
+  "tillRightSwipedUserIdList": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "message": "{\"msg\":\"I love that you're into art. It's so refreshing!\",\"type\":\"interestIn\",\"data\":\"[\\\"🎨 Art & Painting\\\",\\\"🎭 Theater & Drama\\\",\\\"📱 App Development\\\",\\\"🧬 Science & Innovations\\\"]\"}",
+      "_id": {
+        "$oid": "65d231df6d198440fca6f579"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T16:35:43.133Z"
+      }
+    }
+  ],
+  "tillLeftSwipedUserIdList": [],
+  "matchWithUserIdList": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "_id": {
+        "$oid": "65d2436419db705c0a5bc09e"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T17:50:28.950Z"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d2368e6d198440fca70c81"
+  },
+  "onlineStatus": {
+    "lastActive": {
+      "$date": "2024-02-18T17:42:07.092Z"
+    }
+  },
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e4d"
+  },
+  "gotRightSwipeCount": 1,
+  "gotLeftSwipeCount": 0,
+  "tillRightSwipedCount": 1,
+  "tillLeftSwipedCount": 0,
+  "matchGotCount": 1,
+  "viewedProfiles": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T17:04:43.010Z"
+      },
+      "_id": {
+        "$oid": "65d238ab6d198440fca71eba"
+      }
+    }
+  ],
+  "gotLeftSwipeUserIdList": [],
+  "gotRightSwipeUserIdList": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "accepted": null,
+      "message": "{\"msg\":\"\",\"type\":\"swipe\",\"data\":\"\"}",
+      "_id": {
+        "$oid": "65df61fa91175ada6fbdf85d"
+      },
+      "currentTime": {
+        "$date": "2024-02-28T16:40:26.372Z"
+      }
+    }
+  ],
+  "tillRightSwipedUserIdList": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "message": "{\"msg\":\"Yummy, I also love it!!!\",\"type\":\"writtenPrompt\",\"data\":\"{\\\"prompt\\\":\\\"I feel happiest when...\\\",\\\"answer\\\":\\\"When, I have crispello🤤\\\"}\"}",
+      "_id": {
+        "$oid": "65d238aa6d198440fca71eaf"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T17:04:42.972Z"
+      }
+    }
+  ],
+  "tillLeftSwipedUserIdList": [],
+  "matchWithUserIdList": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "_id": {
+        "$oid": "65df61fa91175ada6fbdf8bb"
+      },
+      "currentTime": {
+        "$date": "2024-02-28T16:40:26.382Z"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d238bb6d198440fca71f65"
+  },
+  "onlineStatus": {
+    "lastActive": {
+      "$date": "2024-02-18T17:42:14.505Z"
+    }
+  },
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e3d"
+  },
+  "gotRightSwipeCount": 0,
+  "gotLeftSwipeCount": 1,
+  "tillRightSwipedCount": 1,
+  "tillLeftSwipedCount": 0,
+  "matchGotCount": 0,
+  "viewedProfiles": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T17:07:14.184Z"
+      },
+      "_id": {
+        "$oid": "65d239426d198440fca72533"
+      }
+    }
+  ],
+  "gotLeftSwipeUserIdList": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "_id": {
+        "$oid": "65df69f091175ada6fbf7a6a"
+      },
+      "currentTime": {
+        "$date": "2024-02-28T17:14:24.412Z"
+      }
+    }
+  ],
+  "gotRightSwipeUserIdList": [],
+  "tillRightSwipedUserIdList": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "message": "{\"msg\":\"I admire your sense of adventure. What's your next big trip?\",\"type\":\"bio\",\"data\":\"\\\"🌟 Adventurous Soul Seeking Connection 🌟\\\"\"}",
+      "_id": {
+        "$oid": "65d239426d198440fca72527"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T17:07:14.139Z"
+      }
+    }
+  ],
+  "tillLeftSwipedUserIdList": [],
+  "matchWithUserIdList": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d2394e6d198440fca725eb"
+  },
+  "onlineStatus": {
+    "lastActive": {
+      "$date": "2024-02-28T17:28:11.457Z"
+    }
+  },
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e2d"
+  },
+  "gotRightSwipeCount": 1,
+  "gotLeftSwipeCount": 0,
+  "tillRightSwipedCount": 1,
+  "tillLeftSwipedCount": 0,
+  "matchGotCount": 1,
+  "viewedProfiles": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T17:10:06.252Z"
+      },
+      "_id": {
+        "$oid": "65d239ee6d198440fca72e20"
+      }
+    }
+  ],
+  "gotLeftSwipeUserIdList": [],
+  "gotRightSwipeUserIdList": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "accepted": null,
+      "message": "{\"msg\":\"\",\"type\":\"swipe\",\"data\":\"\"}",
+      "_id": {
+        "$oid": "65d2432e19db705c0a5bbbd7"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T17:49:34.122Z"
+      }
+    }
+  ],
+  "tillRightSwipedUserIdList": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "message": "{\"msg\":\"I don't like ur basics, bruhhhhh\",\"type\":\"basics\",\"data\":\"\\\"\\\"\"}",
+      "_id": {
+        "$oid": "65d239ee6d198440fca72e13"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T17:10:06.218Z"
+      }
+    }
+  ],
+  "tillLeftSwipedUserIdList": [],
+  "matchWithUserIdList": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "_id": {
+        "$oid": "65d2432e19db705c0a5bbc14"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T17:49:34.134Z"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d239fa6d198440fca72ede"
+  },
+  "onlineStatus": {
+    "lastActive": {
+      "$date": "2024-02-18T17:42:08.415Z"
+    }
+  },
+  "userId": {
+    "$oid": "65d074cb4f1b52b939f69e1d"
+  },
+  "gotRightSwipeCount": 0,
+  "gotLeftSwipeCount": 1,
+  "tillRightSwipedCount": 1,
+  "tillLeftSwipedCount": 0,
+  "matchGotCount": 0,
+  "viewedProfiles": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T17:15:30.861Z"
+      },
+      "_id": {
+        "$oid": "65d23b326d198440fca7405a"
+      }
+    }
+  ],
+  "gotLeftSwipeUserIdList": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "_id": {
+        "$oid": "65df69e791175ada6fbf78bb"
+      },
+      "currentTime": {
+        "$date": "2024-02-28T17:14:15.088Z"
+      }
+    }
+  ],
+  "gotRightSwipeUserIdList": [],
+  "tillRightSwipedUserIdList": [
+    {
+      "userId": {
+        "$oid": "65cf4f632274e6f913de6618"
+      },
+      "message": "{\"msg\":\"Ur basics says that ur not common girl\",\"type\":\"moreAboutUser\",\"data\":\"\\\"\\\"\"}",
+      "_id": {
+        "$oid": "65d23b326d198440fca7404c"
+      },
+      "currentTime": {
+        "$date": "2024-02-18T17:15:30.833Z"
+      }
+    }
+  ],
+  "tillLeftSwipedUserIdList": [],
+  "matchWithUserIdList": [],
+  "__v": 0
+}]

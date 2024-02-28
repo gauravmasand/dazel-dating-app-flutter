@@ -1,0 +1,38 @@
+import '/flutter_flow/flutter_flow_animations.dart';
+import '/flutter_flow/flutter_flow_icon_button.dart';
+import '/flutter_flow/flutter_flow_theme.dart';
+import '/flutter_flow/flutter_flow_util.dart';
+import '/flutter_flow/flutter_flow_widgets.dart';
+import 'auth_enter_name_widget.dart' show AuthEnterNameWidget;
+import 'package:flutter/material.dart';
+import 'package:flutter/scheduler.dart';
+import 'package:flutter/services.dart';
+import 'package:flutter_animate/flutter_animate.dart';
+import 'package:google_fonts/google_fonts.dart';
+import 'package:mask_text_input_formatter/mask_text_input_formatter.dart';
+import 'package:provider/provider.dart';
+
+class AuthEnterNameModel extends FlutterFlowModel<AuthEnterNameWidget> {
+  ///  State fields for stateful widgets in this page.
+
+  final unfocusNode = FocusNode();
+  // State field(s) for Name widget.
+  FocusNode? nameFocusNode;
+  TextEditingController? nameController;
+  // final nameMask = MaskTextInputFormatter(mask: '(###) ###-####');
+  String? Function(BuildContext, String?)? nameControllerValidator;
+
+  /// Initialization and disposal methods.
+
+  void initState(BuildContext context) {}
+
+  void dispose() {
+    unfocusNode.dispose();
+    nameFocusNode?.dispose();
+    nameController?.dispose();
+  }
+
+  /// Action blocks are added here.
+
+  /// Additional helper methods are added here.
+}
