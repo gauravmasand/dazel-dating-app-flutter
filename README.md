@@ -16,9 +16,7 @@ Welcome to the of the Dazel Dating App, an advanced dating platform developed wi
 ## Getting Started
 To explore the features showcased in the Dazel Dating App, follow these steps:
 
-1. Clone the repository:
-
-git clone https://github.com/gauravmasand/dazel-dating-app-flutter.git
+1. Clone the repository: git clone https://github.com/gauravmasand/dazel-dating-app-flutter.git
 
 2. **Navigate to the project directory:**
 cd dazel-dating-app-flutter
