@@ -1,6 +1,6 @@
 # Dazel Dating App Source Code
 
-Welcome to the showcase of the Dazel Dating App, an advanced dating platform developed with Flutter, FlutterFlow, Node.js, and MongoDB.
+Welcome to the of the Dazel Dating App, an advanced dating platform developed with Flutter, FlutterFlow, Node.js, and MongoDB.
 
 ## Key Features Demonstrated
 - **Matching Algorithm (Skill: DSA)**
@@ -38,11 +38,6 @@ flutter run
 
 ## Contributing
 Contributions are welcome! If you have any feedback or suggestions, feel free to reach out.
-
-## Video Showcase
-Check out the video showcase of the Dazel Dating App on YouTube:
-[![Dazel Dating App Showcase](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
-
 ---
 
 Explore the cutting-edge features of the Dazel Dating App and witness the future of online connections. For any inquiries or collaboration opportunities, don't hesitate to contact us. Let's innovate together! 🚀
